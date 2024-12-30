@@ -7,6 +7,7 @@
 ## 
 <div align="left">
   <img height="40" src="icons8-programação-c.svg" />
+  <img height="40" src="icons8-python.svg" />
 </div>
 
 
