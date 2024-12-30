@@ -9,7 +9,7 @@
   <img height="40" src="icons8-programação-c.svg" />
   <img height="40" src="icons8-python.svg" />
   <img height="40" src="icons8-javascript.svg" />
-  <img height="40" src="icons8-html5.svg" />
+  <img height="40" src="icons8-html-5.svg" />
 </div>
 
 
