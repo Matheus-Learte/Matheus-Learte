@@ -4,10 +4,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-Learte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## 
+## Linguagens:
 <div align="left">
   <img height="40" src="icons8-programação-c.svg" />
   <img height="40" src="icons8-python.svg" />
+  <img height="40" src="icons8-javascript.svg" />
 </div>
 
 
